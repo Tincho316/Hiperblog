@@ -1,15 +1,13 @@
-body {
-    text-align: left;
-    font-family: "Arial";
-    color: hsl(0, 73%, 47%);
-}
-#container {
-
-        width: 70%;
-        padding: 1em;
-        text-align: left;
-        border: 1px solid blueviolet;
-        margin: 0 auto;
-        background-color: violet;
-}
-
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-top: 1px solid #ccc;
+    margin-top: 50px;
+    }
+    
+    footer p {
+    margin: 0;
+    font-size: 14px;
+    color: #666;
+    }
