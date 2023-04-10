@@ -72,3 +72,17 @@
     line-height: 1.5;
     margin-bottom: 20px;
     }
+
+    footer {
+        text-align: center;
+        padding: 20px;
+        background-color: #f8f8f8;
+        border-top: 1px solid #ccc;
+        margin-top: 50px;
+        }
+        
+        footer p {
+        margin: 0;
+        font-size: 14px;
+        color: #666;
+        }
